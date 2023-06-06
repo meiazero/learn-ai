@@ -1,0 +1,6 @@
+# vscode
+.vscode/
+
+
+# pipenv files
+Pipfile.lock
